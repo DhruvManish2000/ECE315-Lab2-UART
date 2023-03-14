@@ -1,4 +1,4 @@
-# Serial-Interfacing
+# ECE315 Lab 2 Serial-Interfacing
 
 Objective:
 
